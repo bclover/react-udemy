@@ -1,0 +1,42 @@
+ul{
+  list-style: none;
+}
+
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 75%;
+}
+
+.video-item img {
+  max-width: 64px;
+}
+
+.video-detail .details {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.video-detail .details-title {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.video-detail .details-description {
+  font-size: 1.25em;
+  margin-bottom: 5px;
+}
+
+.list-group-item {
+  height: 110px;
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
